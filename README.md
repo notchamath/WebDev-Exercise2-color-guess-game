@@ -1,0 +1,1 @@
+This is a Web Development Exercise that was done to practice DOM manipulations and basic JavaScript functions.
